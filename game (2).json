@@ -1,0 +1,62 @@
+{
+  "a": "==gbvxWZtJXZ0F2V",
+  "hint": "Mostly water, and a summer picnic staple.",
+  "levels": [
+    {
+      "file": "f8f69196b9fb.jpg",
+      "rect": {
+        "x": 711,
+        "y": 743,
+        "size": 178
+      }
+    },
+    {
+      "file": "451bd98acd99.jpg",
+      "rect": {
+        "x": 667,
+        "y": 699,
+        "size": 267
+      }
+    },
+    {
+      "file": "650f1586ad30.jpg",
+      "rect": {
+        "x": 600,
+        "y": 632,
+        "size": 400
+      }
+    },
+    {
+      "file": "cd03580e9894.jpg",
+      "rect": {
+        "x": 493,
+        "y": 525,
+        "size": 615
+      }
+    },
+    {
+      "file": "6838afdecd72.jpg",
+      "rect": {
+        "x": 330,
+        "y": 362,
+        "size": 941
+      }
+    },
+    {
+      "file": "afe0a198dc19.jpg",
+      "rect": {
+        "x": 134,
+        "y": 166,
+        "size": 1333
+      }
+    },
+    {
+      "file": "f5426868c7e6.jpg",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1600
+      }
+    }
+  ]
+}

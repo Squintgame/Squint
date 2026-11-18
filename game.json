@@ -1,0 +1,62 @@
+{
+  "a": "lxGcwFWZulGU",
+  "hint": "It grows out of the middle of a spiky plant.",
+  "levels": [
+    {
+      "file": "4a67ba959818.jpg",
+      "rect": {
+        "x": 711,
+        "y": 1031,
+        "size": 178
+      }
+    },
+    {
+      "file": "aa79a11510d7.jpg",
+      "rect": {
+        "x": 667,
+        "y": 987,
+        "size": 267
+      }
+    },
+    {
+      "file": "170f761ef015.jpg",
+      "rect": {
+        "x": 600,
+        "y": 920,
+        "size": 400
+      }
+    },
+    {
+      "file": "64acbe5ed62a.jpg",
+      "rect": {
+        "x": 493,
+        "y": 813,
+        "size": 615
+      }
+    },
+    {
+      "file": "7a957f7ae237.jpg",
+      "rect": {
+        "x": 330,
+        "y": 650,
+        "size": 941
+      }
+    },
+    {
+      "file": "51b9ed4c494e.jpg",
+      "rect": {
+        "x": 134,
+        "y": 267,
+        "size": 1333
+      }
+    },
+    {
+      "file": "04634df7db1a.jpg",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1600
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "a": "==QeyJXZidXYyR3U",
+  "hint": "Its seeds are on the outside.",
+  "levels": [
+    {
+      "file": "4487ac7366b1.jpg",
+      "rect": {
+        "x": 743,
+        "y": 871,
+        "size": 178
+      }
+    },
+    {
+      "file": "e8a59fdc6227.jpg",
+      "rect": {
+        "x": 699,
+        "y": 827,
+        "size": 267
+      }
+    },
+    {
+      "file": "ee6f6a9d5afc.jpg",
+      "rect": {
+        "x": 632,
+        "y": 760,
+        "size": 400
+      }
+    },
+    {
+      "file": "54a53916655d.jpg",
+      "rect": {
+        "x": 525,
+        "y": 653,
+        "size": 615
+      }
+    },
+    {
+      "file": "149aeebe6522.jpg",
+      "rect": {
+        "x": 362,
+        "y": 490,
+        "size": 941
+      }
+    },
+    {
+      "file": "d2c5580c8549.jpg",
+      "rect": {
+        "x": 166,
+        "y": 267,
+        "size": 1333
+      }
+    },
+    {
+      "file": "254308fe7102.jpg",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1600
+      }
+    }
+  ]
+}
